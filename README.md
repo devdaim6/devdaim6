@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java,C/C++, JavaScript,Node.js.**
 
-- 📫 How to reach me **devdaim6@gmail.com**
+- 📫 How to reach me **daimdev6@gmail.com**
 
 - 📄 Know about my experiences [https://devdaim.me](https://devdaim.me)
 

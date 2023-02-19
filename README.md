@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devdaim6" alt="devdaim6" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Node.js.**
+- 🌱 I’m currently learning **JavaScript,React.js.**
 
 - 👨‍💻 All of my projects are available at [https://www.devdaim.tech](https://www.devdaim.tech)
 

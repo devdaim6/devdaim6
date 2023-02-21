@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daim</h1>
 <h3 align="center">A passionate developer from Srinagar,Jammu And Kashmir</h3>
-<img align="right" alt="Programmer" width="200" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Programmer" width="190" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devdaim6&label=Profile%20views&color=0e75b6&style=flat" alt="devdaim6" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devdaim6" alt="devdaim6" /></a> </p>

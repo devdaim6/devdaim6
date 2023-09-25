@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devdaim6" alt="devdaim6" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript,React.js.**
+- 🌱 I’m currently learning **Next.js.**
 
 - 👨‍💻 All of my projects are available at [https://www.devdaim.tech](https://www.devdaim.tech)
 
-- 💬 Ask me about **Java,C/C++, JavaScript,React.js.**
+- 💬 Ask me about **Java,C/C++, JavaScript,React.js,Next.js**
 
 - 📫 How to reach me **daimdev6@gmail.com**
 
-- 📄 Know about my experiences [https://devdaim.me](https://devdaim.me)
+- 📄 Know about my experiences [https://devdaim.tech](https://devdaim.tech)
 
 
 

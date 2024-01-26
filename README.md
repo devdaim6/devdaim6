@@ -3,15 +3,15 @@
 # 💫 About Me:
 🌱 I’m currently learning **Next.js,Docker,GraphQL,Redis etc..**
 
-- 👨‍💻 All of my projects are available at [https://devdaim.tech](https://devdaim.tech)
+- 👨‍💻 All of my projects are available at [https://devdaim.tech](https://devdaim.netlify.app)
 
-- 📝 I regularly Post Blogs on [https://devdaim.me](https://devdaim.me)
+- 📝 I regularly Post Blogs on [https://devdaim.me](https://devdaim.vercel.app)
 
 - 💬 Ask me about **JavaScript,Next.js,MongoDB,Django,Java,C/C++ etc...**
 
 - 📫 How to reach me **daimdev6@gmail.com**
 
-- 📄 Know about my experiences [https://devdaim.tech](https://devdaim.tech)
+- 📄 Know about my experiences [https://devdaim.tech](https://devdaim.netlify.app)
 
 - ⚡ Fun fact **Leave Coding aside,Food is Love isn't it ?**<br>Food Coding Sleep Repeat :)
 

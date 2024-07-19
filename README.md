@@ -6,15 +6,13 @@
 # 💫 About Me:
 🌱 I’m currently learning **Next.js,Docker,GraphQL,Redis etc..**
 
-- 👨‍💻 All of my projects are available at [https://devdaim.tech](https://devdaim.netlify.app)
+- 👨‍💻 All of my projects are available at [https://devdaim.vercel.app](https://devdaim.vercel.app)
 
-- 📝 I regularly Post Blogs on [https://devdaim.me](https://devdaim.vercel.app)
+- 📝 I regularly Post Blogs on [https://devdaim-blogs.vercel.app](https://devdaim-blogs.vercel.app)
 
 - 💬 Ask me about **JavaScript,Next.js,MongoDB,Django,Java,C/C++ etc...**
 
 - 📫 How to reach me **daimdev6@gmail.com**
-
-- 📄 Know about my experiences [https://devdaim.tech](https://devdaim.netlify.app)
 
 - ⚡ Fun fact **Leave Coding aside,Food is Love isn't it ?**<br>Food Coding Sleep Repeat :)
 
@@ -24,8 +22,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 ---

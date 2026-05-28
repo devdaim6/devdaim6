@@ -1,85 +1,48 @@
-## 🚀 Daim Zahoor Kakroo
+# Daim Zahoor
 
-💻 **Full-Stack Developer** | [Kayana - Ordering and Payment Solutions](https://kayana.co.uk/)   React • Next.js • Node.js • Spring Boot  
-⚡ Building scalable web apps & real-time systems  
-🌍 Passionate about clean architecture & performance
+**Software Engineer — Generative AI & Fullstack**
 
----
-
-## 👨‍💼 Work Experience
-⚡ **Software Developer Intern** — [Mobiurja Pvt. Ltd.](https://www.mobiurja.com/)  
-• Worked on scalable web applications & real-world production features  
-• Improved performance & optimized backend workflows  
+Fullstack + AI Engineer with 2 years of industry experience shipping production-grade systems.
+Currently building at [Kayana](https://kayana.co.uk) — distributed payment infrastructure and event-driven microservices at scale.
 
 ---
 
-## 💫 About Me
+## Work
 
-🌱 Currently learning **Next.js, Docker, GraphQL, Redis & System Design**
+**Kayana — Ordering and Payment Solutions** · Fullstack Developer · Jan 2025 – Present
+Event-driven microservices, Kafka-based reporting pipelines, Spring Boot payment infrastructure, JVM optimisation.
 
-👨‍💻 Portfolio:  
-🔗 https://devdaim.vercel.app  
+**Ferdous & Associates** · Junior Software Engineer · Mar 2024 – Dec 2024
+Led a team of 4 to ship a full-stack tax management product on MERN. GST + Razorpay integrations.
 
-✍️ Blogs & Dev Writing:  
-🔗 https://devdaim-blogs.vercel.app  
-
-💬 Ask me about:  
-**JavaScript • Next.js • MERN • Django • Java • C/C++**
-
-📫 Reach me:  
-📧 **daimdev6@gmail.com**
-
-⚡ Fun fact:  
-**Food > Everything 😄**  
-Food 🍜 Code 💻 Sleep 😴 Repeat 🔁
+**Mobiurja Pvt. Ltd.** · React & Node.js Developer · Jul 2023 – Feb 2024
+Migrated legacy PHP app to MERN stack. Redis caching, RESTful APIs for government-facing dashboard.
 
 ---
 
-## 🌐 Connect With Me
+## Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/daimzahoorit)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/DevDaim)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.ig_daim._)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@devdaim)
+**AI / ML** — RAG Pipelines, LLM Integration, Prompt Engineering, Groq, OpenAI, Anthropic Claude, Sentence-Transformers, Upstash Vector DB, LangChain, Agentic Workflows
 
----
+**Languages** — Python, TypeScript, JavaScript, Java, SQL
 
-## 🧰 Tech Stack
+**Frontend** — Next.js, React, Zustand, TanStack Query, Tailwind CSS, shadcn/ui
 
-### 🚀 Frontend
-React • Next.js • TailwindCSS • Bootstrap • MUI • HTML • CSS • SASS
+**Backend** — FastAPI, Spring Boot, Node.js, REST, GraphQL, Microservices, Kafka, RabbitMQ
 
-### ⚙️ Backend
-Node.js • Express • NestJS • Django • Spring Boot • REST APIs • JWT Auth
+**Databases** — PostgreSQL, MySQL, MongoDB, Redis, Upstash Vector
 
-### 🗄 Databases
-MongoDB • MySQL • SQLite • PostgreSQL
-
-### ☁️ DevOps & Tools
-Docker • Linux • Git • GitHub • Postman • NPM • Vercel • Netlify
-
-### 🧠 Languages
-JavaScript • TypeScript • Java • Python • C • C++
-
-### 🎨 Design & Media
-Figma • Photoshop • After Effects • Canva • GIMP
+**Infra** — Docker, Kubernetes, AWS, Vercel, Railway, GitHub Actions, Nginx
 
 ---
 
-## 📊 GitHub Stats
+## Certifications
 
-![](https://github-readme-stats.vercel.app/api?username=devdaim6&theme=dark&hide_border=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=devdaim6&theme=dark&hide_border=true)
-
----
-
-## ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+- Claude Code in Action — Anthropic · [Verify](https://verify.skilljar.com/c/wbeke32kyg9j) · May 2026
+- Full Stack Web Development — Amazon/Coursera · [Verify](https://www.coursera.org/account/accomplishments/verify/AHZHIIEL1C90) · May 2026
 
 ---
 
-## ☕ Support My Work
-If you like my work and want to support:
+## Connect
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/daimdev6)
+[devdaim@proton.me](mailto:devdaim@proton.me) · [Portfolio](https://daim.is-a.dev) · [LinkedIn](https://linkedin.com/in/daimzahoorit) · [Twitter/X](https://x.com/DevDaim)
